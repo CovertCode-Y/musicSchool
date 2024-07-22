@@ -14,3 +14,4 @@ C:\Users\יוסף\source\repos\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\
 C:\Users\יוסף\source\repos\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\MusicSchool.pdb
 C:\Users\יוסף\source\repos\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\MusicSchool.genruntimeconfig.cache
 C:\Users\יוסף\source\repos\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\ref\MusicSchool.dll
+C:\Users\יוסף\source\repos\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\MusicSchool.sourcelink.json
