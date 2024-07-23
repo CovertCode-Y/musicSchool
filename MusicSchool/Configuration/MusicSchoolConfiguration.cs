@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MusicSchool.Configuration
+namespace fpxml.Configuration
 {
     internal static class MusicSchoolConfiguration
     {
         public static string musicSchoolPath = Path.Combine(
             Directory.GetCurrentDirectory(),
-            "musicSchool.xml");
+            "musicschool.xml"
+        );
     }
 }

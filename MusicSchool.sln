@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicSchool", "MusicSchool\MusicSchool.csproj", "{445A1068-78B7-4C2C-A122-F77BBD32C433}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fpxml", "fpxml\fpxml.csproj", "{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{445A1068-78B7-4C2C-A122-F77BBD32C433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{445A1068-78B7-4C2C-A122-F77BBD32C433}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{445A1068-78B7-4C2C-A122-F77BBD32C433}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{445A1068-78B7-4C2C-A122-F77BBD32C433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F10F32-6BD6-46E4-9ADA-FBED96D1DA2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2ABBB17D-F62E-4B66-A75D-D42D9B7453B2}
+		SolutionGuid = {0403FE4D-D093-4C79-8F72-A8A9B6199626}
 	EndGlobalSection
 EndGlobal

@@ -8,24 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\יוסף\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\enosh.tsur\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\יוסף\\source\\repos\\MusicSchool\\MusicSchool\\MusicSchool.csproj",
-      "projectName": "MusicSchool",
-      "projectPath": "C:\\Users\\יוסף\\source\\repos\\MusicSchool\\MusicSchool\\MusicSchool.csproj",
-      "packagesPath": "C:\\Users\\יוסף\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\יוסף\\source\\repos\\MusicSchool\\MusicSchool\\obj\\",
+      "projectUniqueName": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\fpxml.csproj",
+      "projectName": "fpxml",
+      "projectPath": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\fpxml.csproj",
+      "packagesPath": "C:\\Users\\enosh.tsur\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\enosh.tsur\\source\\repos\\fpxml\\fpxml\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\יוסף\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\enosh.tsur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

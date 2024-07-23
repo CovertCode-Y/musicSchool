@@ -1,5 +1,10 @@
-namespace MusicSchool
+using fpxml.Model;
+
+namespace fpxml
 {
+
+
+
     internal static class Program
     {
         /// <summary>

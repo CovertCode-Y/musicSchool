@@ -1,6 +1,7 @@
-using MusicSchool.Model;
-using static MusicSchool.Service.MusicScoolService;
-namespace MusicSchool
+using static fpxml.Service.MusicSchoolService;
+using fpxml.Model;
+
+namespace fpxml
 {
     public partial class Form1 : Form
     {
@@ -8,13 +9,14 @@ namespace MusicSchool
         {
             InitializeComponent();
             CreateXMLIfNotExists();
-            //     AddStudent("room-10", "moshe", "guitar");
-            //     AddStudent("room-10", "chayim", "piano");
-            //    InsertClassRoom("room-10");
-            //   AddTeacher("room-10", "yosi");
-            AddManyStudents("room-10",
-                new Student("itzik", new Instrument("piano"),
-                new Student("noha", new Instrument("piano"))));
+            // InsertClassroom("guitar jazz");
+            // AddTeacher("guitar jazz", "yossi levi");
+            // AddStudent("guitar jazz", "ofer badash", "guitar");
+            AddManyStudents(
+                "guitar jazz",
+                new Student("itshak", new Instrument("piano")),
+                new Student("noa klein", new Instrument("guitar"))
+            );
         }
     }
 }

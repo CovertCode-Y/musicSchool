@@ -92,6 +92,7 @@ StyleCopReport.xml
 *.log
 *.tlog
 *.vspscc
+*.vs
 *.vssscc
 .builds
 *.pidb
@@ -396,3 +397,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+**/obj/Debug/net8.0-windows/
+.vs
